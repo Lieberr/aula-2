@@ -1,0 +1,11 @@
+<html lange="en">
+	<head>
+		<title>PAGINA DE CONTATO</title>
+	</head>
+
+	<body>
+		<h1>Entre em contato com a puc </h1>
+		<p>Prencha os dados</p>
+		<p>Alteracao</p>
+	</body>
+</html>
